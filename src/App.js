@@ -68,6 +68,8 @@ This is a website I designed in HTML and CSS. It was a shopping website which en
       </ul>
 
       <div class="AboutMe">
+      
+      </div>
       <img class="jamie"
       src="https://scontent.flhr2-1.fna.fbcdn.net/v/t1.0-9/13886900_133448257097911_4861442436171259254_n.jpg?_nc_cat=109&_nc_ht=scontent.flhr2-1.fna&oh=d3461f46e07933fccea52a5f031da8d2&oe=5D1E5D91"
       />
@@ -77,7 +79,7 @@ This is a website I designed in HTML and CSS. It was a shopping website which en
       <p class="Review">
           I enjoy listening to music playing football and going to the gym. I also support Arsenal FC and enjoy watching basketball and support the Raptors in Canada. I also enjoy travelling the world and seeing various cultures and meeting new people. I enjoy learning new things and I am open to trying new stuff. I have a clothing business which I run, we print, embriod and design.
       </p>
-</div>
+
         
       </body>
         
