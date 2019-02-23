@@ -54,10 +54,12 @@ This is a website I designed in HTML and CSS. It was a shopping website which en
 />
 </a>
 
-<a href="https://wwww.xyzlondon.co.uk/"> XYZ London
-<img src="https://scontent.flhr2-2.fna.fbcdn.net/v/t1.0-9/49536018_1657209191047065_7600924509880713216_n.jpg?_nc_cat=111&_nc_ht=scontent.flhr2-2.fna&oh=817795f8d42c45b6602f532109958841&oe=5D2618EA"
+<div class="xyzlondon">
+<a href="http://xyzlondon.co.uk/"> XYZ London
+<img class="xyzlondon"src="https://scontent.flhr2-2.fna.fbcdn.net/v/t1.0-9/49536018_1657209191047065_7600924509880713216_n.jpg?_nc_cat=111&_nc_ht=scontent.flhr2-2.fna&oh=817795f8d42c45b6602f532109958841&oe=5D2618EA"
 />
 </a>
+</div>
 
 
 <div className="About Me">

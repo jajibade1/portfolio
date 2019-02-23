@@ -108,6 +108,13 @@ display: block;
 overflow: hidden;
 }
 
+.xyzlondon {
+  width: 100%;
+height: 100%;
+display: block;
+overflow: hidden;
+}
+
 @media(max-width: 700px){
   .Review {
     font-family: 'Times New Roman', Times, serif;
