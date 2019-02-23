@@ -63,9 +63,12 @@ src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/a33d7450726913.58d847d
       <li id="aboutme">About Me</li>
       </ul>
 
-        <img class="jamie"
-      src="https://media.licdn.com/dms/image/C5603AQHcqBwe7hGknw/profile-displayphoto-shrink_200_200/0?e=1556150400&v=beta&t=4iEhIZhNz2G3N9bM3IXooDN4SoJ_zXeWYGmKeBasPVA"
+      <div class="AboutMe">
+      <img class="jamie"
+      src="https://scontent.flhr2-1.fna.fbcdn.net/v/t1.0-9/13886900_133448257097911_4861442436171259254_n.jpg?_nc_cat=109&_nc_ht=scontent.flhr2-1.fna&oh=d3461f46e07933fccea52a5f031da8d2&oe=5D1E5D91"
       />
+      </div>
+        
       
       <p class="Review">
           I enjoy listening to music playing football and going to the gym. I also support Arsenal FC and enjoy watching basketball and support the Raptors in Canada. I also enjoy travelling the world and seeing various cultures and meeting new people. I enjoy learning new things and I am open to trying new stuff.

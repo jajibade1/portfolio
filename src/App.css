@@ -13,9 +13,7 @@
   padding: 0;
   font-family: 'Times New Roman', Times, serif;
   background-color: #282c34;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: large;
   color: white;
 }
 
@@ -24,13 +22,13 @@ color: white;
 background-color: gray;
 list-style: none;
 text-align: center;
-padding: 20px 0 20px 0;
+padding: 15px 0 15px 0;
 }
 
 .Navigation > li {
-
   display: inline-block;
-  padding-right: 50px;
+  margin-left: 70px;
+  
 }
 
 .Navigation > li a {
@@ -44,12 +42,12 @@ padding: 20px 0 20px 0;
 
 .Review {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 20px;
+  font-size: large;
   text-align: justify;
 }
 
 .Project-Title {
-  font-size: 30px;
+  font-size: 20px;
   color: blue;
   text-align: center;
   padding: 20px 0 20px 0;
@@ -93,18 +91,29 @@ height: 100%;
 img {
   width: 100%;
   height:100%;
+  display: block;
+}
+
+.AboutMe {
+  width: 100%;
+  height: 100%;
+  float: right;
 }
 
 .jamie {
-  position: relative;
-  width: 500px;
-  height: 500px;
-  display: block;
-  left: auto;
-margin-left: 35%;
-
-
+width: 100%;
+height: 100%;
+display: block;
 }
+
+@media(max-width: 700px){
+  .Review {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: auto;
+    text-align: justify;
+  }
+}
+
 
 .App-link {
   color: #61dafb;
