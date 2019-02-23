@@ -52,9 +52,12 @@ class App extends Component {
 This is a website I designed in HTML and CSS. It was a shopping website which enabled the users to select products from the images and it would calculate the total. It enabled the user to remove or add products to the basket.
 </p>
 
-<img
-src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/a33d7450726913.58d847da0cc52.jpg"
+<a href="https://jamies-shopping-website.netlify.com/">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/a33d7450726913.58d847da0cc52.jpg"
 />
+</a>
+
+
   
 
 
