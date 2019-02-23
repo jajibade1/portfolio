@@ -42,9 +42,6 @@ class App extends Component {
 </div>
       
     </div>
-
-  
-
       
 <h4>Web shopping website</h4>
 
@@ -57,8 +54,10 @@ This is a website I designed in HTML and CSS. It was a shopping website which en
 />
 </a>
 
-
-  
+<a href="https://wwww.xyzlondon.co.uk/"> XYZ London
+<img src="https://scontent.flhr2-2.fna.fbcdn.net/v/t1.0-9/49536018_1657209191047065_7600924509880713216_n.jpg?_nc_cat=111&_nc_ht=scontent.flhr2-2.fna&oh=817795f8d42c45b6602f532109958841&oe=5D2618EA"
+/>
+</a>
 
 
 <div className="About Me">
@@ -74,7 +73,7 @@ This is a website I designed in HTML and CSS. It was a shopping website which en
         
       
       <p class="Review">
-          I enjoy listening to music playing football and going to the gym. I also support Arsenal FC and enjoy watching basketball and support the Raptors in Canada. I also enjoy travelling the world and seeing various cultures and meeting new people. I enjoy learning new things and I am open to trying new stuff.
+          I enjoy listening to music playing football and going to the gym. I also support Arsenal FC and enjoy watching basketball and support the Raptors in Canada. I also enjoy travelling the world and seeing various cultures and meeting new people. I enjoy learning new things and I am open to trying new stuff. I have a clothing business which I run, we print, embriod and design.
       </p>
 </div>
         
