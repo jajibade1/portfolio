@@ -87,26 +87,25 @@ This is a website I designed in HTML and CSS. It was a shopping website which en
       </div>
      
      <br></br>
-     <form action="mail_handler.php" method="post" enctype="text/plain" action="mail_handler.php">
-      Name: 
-      <input type="text" name="Name" placeholder="Name"></input>
-      <br></br>
-      <br></br>
-      Email: 
-      <input type="email" email="Email" placeholder="email"></input>
-      <br></br>
-      <br></br>
-      Subject: 
-      <br></br>
-  
-      <textarea name="subject" placeholder="type your message here"></textarea>
+     <form action="contactform.php" method="post">
+ 
+      <input type="text" name="name" placeholder="Full Name"></input>
+    
+      <input type="email" name="mail" placeholder="email"></input>
+     
+      <input type="text" name="subject" placeholder="subject"></input>
+ 
+      <textarea name="message" placeholder="type your message here"></textarea>
       <br></br>
 
-      <input type="Submit" name="Submmit"></input>
+      <button type="submit" name="submit">SEND MAIL</button>
 
       <input type="Reset" name="Reset"></input>
-     
+
+    
       </form>
+
+      
         
       </body>
         
