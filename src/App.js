@@ -86,26 +86,7 @@ This is a website I designed in HTML and CSS. It was a shopping website which en
       </ul>
       </div>
      
-     <br></br>
-     <form action="contactform.php" method="post">
- 
-      <input type="text" name="name" placeholder="Full Name"></input>
-    
-      <input type="email" name="mail" placeholder="email"></input>
-     
-      <input type="text" name="subject" placeholder="subject"></input>
- 
-      <textarea name="message" placeholder="type your message here"></textarea>
-      <br></br>
-
-      <button type="submit" name="submit">SEND MAIL</button>
-
-      <input type="Reset" name="Reset"></input>
-
-    
-      </form>
-
-      
+      <iframe class="form" src="https://docs.google.com/forms/d/e/1FAIpQLSdQPsBtWba2Gu5ccyQzfWLpiugFSd71x8r7Nizg5OgYJfCcEg/viewform?embedded=true" width="auto" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>      
         
       </body>
         
