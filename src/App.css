@@ -130,6 +130,46 @@ img {
   }
 }
 
+form {
+  width:300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+textarea {
+resize: vertical;
+max-height: 100px;
+}
+
+input, textarea {
+  outline: none;
+  border: 1px solid black;
+}
+
+input:focus, textarea:focus {
+  box-shadow: 0 0 4px blue;
+  border: 1px solid red;
+}
+
+::placeholder {
+  color: blue;
+  opacity: 1;
+}
+
+:-ms-input-placeholder {
+  color: blue;
+}
+
+::-ms-input-placeholder {
+  color: blue;
+}
+
 
 .App-link {
   color: #61dafb;

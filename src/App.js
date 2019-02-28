@@ -79,7 +79,32 @@ This is a website I designed in HTML and CSS. It was a shopping website which en
       <p class="Review">
           I enjoy listening to music playing football and going to the gym. I also support Arsenal FC and enjoy watching basketball and support the Raptors in Canada. I also enjoy travelling the world and seeing various cultures and meeting new people. I enjoy learning new things and I am open to trying new stuff. I have a clothing business which I run, we print, embriod and design.
       </p>
+    
+      <div className="About Me">
+    <ul class="Project-Title">
+      <li id="aboutme">Contact Me</li>
+      </ul>
+      </div>
+     
+     <br></br>
+      <form action="contactform.php" method="get">
+      Name: 
+      <input type="text" name="Name" placeholder="Name"></input>
+      <br></br>
+      <br></br>
+      Email: 
+      <input type="text" email="Email" placeholder="email"></input>
+      <br></br>
+      <br></br>
+      Subject: 
+      <br></br>
+  
+      <textarea name="subject" placeholder="type your message here"></textarea>
+      <br></br>
 
+      <input type="submit" name="submmit"></input>
+     
+      </form>
         
       </body>
         
