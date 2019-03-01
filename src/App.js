@@ -61,6 +61,12 @@ This is a website I designed in HTML and CSS. It was a shopping website which en
 </a>
 </div>
 
+<div class="xyzlondon">
+<a href="https://jamie-travel-website.netlify.com/"> Travel Sample website
+<img src="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=yuwePB9UungViIi0EdqUXlOO4cU%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi8fceOfrKo8UAUfy8AjQA0fry1SWKyFI7vL4nsfN1w3pPjJJn5agYUbhl4j3lK6w"
+/>
+</a>
+</div>
 
 <div className="About Me">
     <ul class="Project-Title">
