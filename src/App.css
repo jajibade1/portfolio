@@ -47,6 +47,12 @@ padding: 15px 0 15px 0;
   text-align: justify;
 }
 
+ul {
+  font-family: 'Times New Roman', Times, serif; 
+  font-size: large;
+  text-align: justify;
+}
+
 .Project-Title {
   font-size: 20px;
   color: blue;
